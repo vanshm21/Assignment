@@ -1,0 +1,95 @@
+.navbar-brand{
+    margin-right: 60vw;
+    font-family: 'Secular One', sans-serif;
+}
+
+.connect{
+    font-family: 'Montserrat', sans-serif;
+    font-weight:600;
+}
+
+.blue{
+    background-color: aliceblue;
+    height: 400px;
+}
+
+.left-div{
+    width: 40%;
+    position: relative;
+    text-align: left;
+    margin: 10vh 0 10vh 10vw; 
+    padding-right: 0;
+}
+
+.right-div{
+    position: relative;
+    margin: 0;
+    padding: 0;
+}
+
+.btn{
+    height: 15%;
+    width: 9.5rem;
+    font-size: small;
+    margin-bottom: 10px;
+}
+
+.bookicon{
+    max-width: 20%;
+}
+
+.flaticon{
+    max-width: 35%;
+}
+
+.pencilicon{
+    max-width: 10%;
+}
+
+p{
+    color: gray;
+}
+
+.large-img{
+    margin-top: 65px;
+}
+
+.inside-content{
+    margin: 10vh auto auto 10vw;
+}
+
+.green{
+    color: green;
+}
+
+.col-lg-4{
+    margin: 50px 20px 50px 20px;
+    height: 300px;
+    width: 300px;
+    border-radius: 7px;
+}
+
+.yellow{
+    background-color: blanchedalmond;
+}
+
+.white{
+    background-color: rgb(235, 238, 240);
+}
+
+.lightblue{
+    background-color:rgb(218, 225, 232);;
+}
+
+.small-img{
+    max-width: 20%;
+    margin: 10vh auto auto 2.5vw;
+}
+
+.div-items{
+    margin-left: 9vw;
+}
+
+.layout{
+    margin:10px auto auto 2.5vw;
+}
